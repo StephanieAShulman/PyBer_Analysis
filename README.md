@@ -6,14 +6,13 @@
 - Libraries: Pandas, Matplotlib
 
 ## Project Overview
-PyBer - a Python-based ride-share app company - is looking to better understand rider access based on location.
+PyBer - a Python-based ride-share app company - is looking to better understand rider access based on location in order to address disparities among city types.
 Of key interest to the CEO, V. Isualize, is the relationship among:
 * Type of city (urban, suburban, rural).
 * Numbers of riders and drivers.
 * Percentages of total fares, riders and drivers by city type.
 
-Summary statistics are highlighted by the use of visual aids that include bubble charts, bar charts, box-n-whisker plots and pie charts.
-With furnished code and assistance from manager Omar and co-worker Sasha, providing V. Isualize with the necessary information was a piece of cake (and a possible alternative to pie).
+Using furnished code, summary statistics were highlighted with the use of visual aids that include bubble charts, bar charts, box-n-whisker plots and pie charts.
 
 Initial work included importing two separate csv files of rider and driver data, which were then converted to data frames, inspected and merged.
 From the data present, the calculated number of rides per city and average fares per city were converted into a bubble chart that better demonstrated the larger number of rides and fares occurring in urban areas.
@@ -21,7 +20,7 @@ Differences in ride count, driver count and fare spread by location was easier t
 
 ![ALT Text](https://user-images.githubusercontent.com/30667001/150445805-55b23053-ef0b-4805-b074-78c326ae4445.png)
 
-## A Brand New Assignment (Challenge)
+## New Assignment (Challenge)
 V. Isualize - impressed with these findings - requested Pandas be further employed to:
 * A. Summarize ride sharing by city type.
 * B. Create a multiple-line graph that showed total weekly fares for each city type.
@@ -30,13 +29,18 @@ Data were once again loaded, converted and merged, then grouped by type (urban, 
 
 ![ALT Text](https://user-images.githubusercontent.com/30667001/150442601-73802679-be48-4a9c-8ca3-0f493ed4a0d2.png)
 
+Almost 70% of all rides originate in urban areas, home to 81% of the drivers and 63% of total fares. In suburban and rural areas, the lower number of ridership and driver count contributes to an average fare of the combined areas ($33) that is almost one-third greater (32%) for riders in these areas than those in urban areas. Urban drivers make 135% and 224% less than suburban and rural drivers, respectively.
+
 Data were limited (per CEO request) to the first four months of the year and further manipulated to create a pivot table that allowed the data to be aggregated by week.
 From this, the resulting line graph was produced.
 
 ![ALT Text](https://user-images.githubusercontent.com/30667001/150442582-7d7a1863-71af-4f8a-96ae-53cd5d620304.png)
 
-# ADD - There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-
 ## Summary
+Next steps should include a review of the following:
+* Time-to-destination - Despite greater number of riders in urban areas, travel time may be affected by surrounding traffic.
+* Distance driven - For rural areas, distance traveled may be a factor in the increased fares in rural areas, despite more time spent in traffic by urban riders completing short trips.
+* Ride timing - Is there something about ridership at certain times that contributes to increased usage in areas (eg: urban nightlife versus rural medical use).
+A high-level summary of typical destinations may also yield further insight.
 
-# ADD - There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+With these additional pieces of information, PyBer can better assess the relationship among riders, drivers, and fares, improving understanding of the root causes of disparities among different city types.
