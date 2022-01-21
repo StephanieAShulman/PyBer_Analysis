@@ -35,4 +35,8 @@ From this, the resulting line graph was produced.
 
 ![ALT Text](https://user-images.githubusercontent.com/30667001/150442582-7d7a1863-71af-4f8a-96ae-53cd5d620304.png)
 
+# ADD - There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
+
 ## Summary
+
+# ADD - There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
