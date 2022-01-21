@@ -30,7 +30,7 @@ Data were once again loaded, converted and merged, then grouped by type (urban, 
 
    ![ALT Text](https://user-images.githubusercontent.com/30667001/150442601-73802679-be48-4a9c-8ca3-0f493ed4a0d2.png)
 
-Almost 70% of all rides originate in urban areas, home to 81% of the drivers and 63% of total fares. In suburban and rural areas, the lower number of ridership and driver count contributes to an average fare of the combined areas ($33) that is almost one-third greater (32%) for riders in these areas than those in urban areas. Urban drivers make 135% and 224% less than suburban and rural drivers, respectively.
+Almost 70% of all rides originated in urban areas, source of 81% of the drivers and 63% of total fares. In suburban and rural areas, the lower number of ridership and driver count contributed to an average fare of the combined areas ($33) that was almost one-third greater (32%) for riders in these areas than those in urban areas. Urban drivers made 135% and 224% less than suburban and rural drivers, respectively.
 
 Data were limited (per CEO request) to the first four months of the year and further manipulated to create a pivot table that allowed the data to be aggregated by week.
 From this, the resulting line graph was produced.
