@@ -37,7 +37,7 @@ From this, the combined line graph was produced.
 
    ![ALT Text](https://user-images.githubusercontent.com/30667001/150442582-7d7a1863-71af-4f8a-96ae-53cd5d620304.png)
 
-Almost all areas show a similar fare patterns over the four months, peaking in late February, then rising and falling in somewhat similar patterns for the remaing weeks. Fares  vary greatest for urban riders between March and April. The first week of April, urban and rural fares increase while suburban fares fall and continue to move in an opposite pattern.
+Almost all areas showed a similar fare patterns over the four months, peaking in late February, then rising and falling in somewhat similar patterns for the remaing weeks. Fares  varied greatest for urban riders between March and April. The first week of April, urban and rural fares increased while suburban fares fell and continued to move in an opposite pattern.
 
 ### Summary
 Next steps should include a review of the following:
